@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+| ![gcsecsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcsecsey&show_icons=true&hide_rank=true&theme=github_dark&hide=contribs&disable_animations=true&hide_border=true) | ![gcsecsey's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gcsecsey&layout=compact&theme=github_dark&hide_border=true) | 
+| --- | --- |
+
 <!--
 **gcsecsey/gcsecsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
