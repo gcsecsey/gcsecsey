@@ -4,7 +4,20 @@
 
 #### NOW
 
-- 🌱 I’m currently learning ElasticSearch, PHP, and Machine Learning
+##### 🌱 Learning
+- ElasticSearch
+- PHP
+- Machine Learning
+
+##### 📚 Reading
+- Atomic Habits
+- London: a Travel Guide Through Time
+- The Fires of Heaven
+
+##### 🎮 Playing
+My Xbox is still in a box because of our recent move, so I'm stranded to my phone
+- Rocket League sideswipe
+- COD mobile
 
 ##### ABOUT ME
 
