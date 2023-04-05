@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Gergely
 
-#### I'm a senior software engineer based in Scotland
+#### I'm a senior software engineer based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ##### ABOUT ME
 
