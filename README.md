@@ -7,7 +7,7 @@
 - 🏢 I'm working at **Automattic Inc.**
 - 💬 Ask me about: React, NodeJS, Typescript, web development
 - 🙌 I’m looking to collaborate on open source projects
-- 📫 How to reach me: ** [Blog](https://gcsecsey.dev), [Twitter](https://twitter.com/gcsecsey), [LinkedIn](https://linkedin.com/in/gcsecsey), [Instagram](https://instagram.com/gcsecsey)**
+- 📫 How to reach me: **[Blog](https://gcsecsey.dev), [Twitter](https://twitter.com/gcsecsey), [LinkedIn](https://linkedin.com/in/gcsecsey), [Instagram](https://instagram.com/gcsecsey)**
 - 😄 Pronouns: he/him
 - ⚡️ Fun fact: I like reading in my spare time, some of my favourites are the Stormlight Archive and Wheel of Time series
 
